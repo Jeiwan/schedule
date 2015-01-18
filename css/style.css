@@ -1,0 +1,8 @@
+.remove {
+  display: inline-block;
+  margin-left: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  font-family: sans-serif;
+  color: red;
+}
